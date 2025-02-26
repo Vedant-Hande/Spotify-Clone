@@ -27,7 +27,7 @@ This project is a front-end clone of Spotify, created using HTML and CSS. It is 
 
 1.  Clone the repository:
     
-    git clone [https://github.com/YOUR\_USERNAME/YOUR\_REPOSITORY.git](https://github.com/Vedant-Hande/Spotify-Clone.git)
+    git clone [https://github.com/Vedant-Hande/Spotify-Clone.git](https://github.com/Vedant-Hande/Spotify-Clone.git)
     
 2.  Navigate to the project directory:
     
